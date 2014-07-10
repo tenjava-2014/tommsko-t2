@@ -1,0 +1,3 @@
+name: tommsko-t2
+main: com.tenjava.entries.tommsko.t2.TenJava
+version: '${project.version}'
